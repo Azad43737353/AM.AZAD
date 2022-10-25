@@ -1,1 +1,2 @@
 # AM
+http://am.azad/
