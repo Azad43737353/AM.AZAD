@@ -1,2 +1,2 @@
 # AM
-http://am.azad/
+http://www.amazad.com/
